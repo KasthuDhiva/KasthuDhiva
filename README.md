@@ -110,8 +110,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/KasthuDhiva/KasthuDhiva/output/snake.svg" alt="Snake animation" />
 
 ###
