@@ -1,4 +1,4 @@
-<h2 align="left">👩‍💻 Hi! I'm Kasthuri<br>🚀 Software Engineer (DevOps)</h2>
+<h2 align="left">👩‍💻 Hi! I'm Kasthuri<br>🚀 Software Engineer</h2>
 
 ###
 
